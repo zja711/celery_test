@@ -1,4 +1,4 @@
-from example.task1 import task1_1
+from tasks.task1 import task1_1
 import time
 
 args = (1, 2, 3)
